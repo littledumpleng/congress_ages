@@ -13,7 +13,7 @@ Create a program that processes data queried from the ProPublica Congress API an
 The graph will display the average ages of the membership of each category for the requested sessions of Congress.
 There should be six separate plots: House, Senate, Democrat, Republican, male, female.
 
-Example input: "python3 final_template.py key.txt 112-114"
+Example input: "python3 congress_data.py key.txt 112-114"
 """
 
 import requests
